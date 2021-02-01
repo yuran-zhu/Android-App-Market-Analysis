@@ -13,7 +13,7 @@ The data is scraped from the Google Play Store and is available at Kaggle. The p
 
 One dataset (`googleplaystore.csv`) includes app information, having values for category, rating, size, download counts. etc. The other dataset (`googleplaystore_user_reviews.csv`) contains data for app reviews, each row refers to a single review and corresponding analysis for an App.
 
-## IV.Problems to Explore
+## IV. Problems to Explore
 
 With the datasets, we expect to answer the following questions that are interesting to both app developers and users.
 - What categories of apps are most available/popular and receive higher ratings?
