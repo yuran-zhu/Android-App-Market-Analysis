@@ -1,6 +1,6 @@
 # Android-App-Market-Analysis
 
-## I. Motivation
+## I. Introduction
 
 As science and technology have been advanced swiftly, app markets are full of opportunities as well as challenges. While many public datasets provide Apple App Store data, there are not many counterpart datasets and visualization available for Google Play Store apps anywhere on the web. For the app-making business, we aim to provide the developers with some actionable insights in the Android market through the visualization of Google Play Store apps data.
 
